@@ -1,0 +1,6 @@
+#!/bin/bash
+# prompt the user for their name
+read -p"Enter your name:"name
+#Greet the user
+echo "Hello,$name!Welcome to bash shell script."
+
